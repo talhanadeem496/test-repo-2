@@ -1,1 +1,1 @@
-#Sample Code
+print("Hello, World!")
